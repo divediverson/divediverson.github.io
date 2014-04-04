@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[TIGER BLOG]]></title>
+  <link href="http://www.apple.com/atom.xml" rel="self"/>
+  <link href="http://www.apple.com/"/>
+  <updated>2014-04-04T12:11:30-07:00</updated>
+  <id>http://www.apple.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[]]></email>
+  </author>
+  <generator uri="http://www.statiked.com/">Statiked</generator>
+
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://www.apple.com/2014/04/04/.html"/>
+    <updated>2014-04-04T19:11:22+00:00</updated>
+    <id>http://www.apple.com/2014/04/04/.html</id>
+    <content type="html"><![CDATA[<p>Hello!!</p>
+]]></content>
+  </entry>
+
+  
+</feed>
